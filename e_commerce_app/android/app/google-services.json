@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93469666034",
+    "project_id": "ecommerce-4f907",
+    "storage_bucket": "ecommerce-4f907.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93469666034:android:8da410efea264256fafe6b",
+        "android_client_info": {
+          "package_name": "com.shrajal.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MqdCMZML3IROCQWnO0dgv7gXDclym0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
